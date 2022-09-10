@@ -141,9 +141,12 @@
   <ItemGroup>
     <ClCompile Include="C:\Users\高子旭\Downloads\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\main.cpp" />
     <ClCompile Include="C:\Users\高子旭\Downloads\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\tgaimage.cpp" />
+    <ClCompile Include="model.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\高子旭\Downloads\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\tgaimage.h" />
+    <ClInclude Include="geometry.h" />
+    <ClInclude Include="model.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
